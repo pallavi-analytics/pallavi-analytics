@@ -1,6 +1,6 @@
  <!-- Centered Image -->
   <p align="center">
-    <img src="https://www.cardinalpeak.com/wp-content/uploads/2021/01/machine-learning.jpg" alt="Machine Learning" width="800">
+    <img src="https://www.cardinalpeak.com/wp-content/uploads/2021/01/machine-learning.jpg" alt="Machine Learning" width="800", height="300">
   </p>
 
 <h1 align="center">Hi 👋, I'm Pallavi Sharma</h1>
