@@ -1,4 +1,7 @@
-![Machine Learning](https://www.cardinalpeak.com/wp-content/uploads/2021/01/machine-learning.jpg)
+ <!-- Centered Image -->
+  <p align="center">
+    <img src="https://www.cardinalpeak.com/wp-content/uploads/2021/01/machine-learning.jpg" alt="Machine Learning" width="600">
+  </p>
 
 <h1 align="center">Hi 👋, I'm Pallavi Sharma</h1>
 <h3 align="center">Data Science enthusiast</h3>
