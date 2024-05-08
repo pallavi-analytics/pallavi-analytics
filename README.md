@@ -7,7 +7,7 @@
 <h3 align="center">Data Science enthusiast</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=palshh&label=Profile%20views&color=0e75b6&style=flat" alt="palshh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavi-analytics&label=Profile%20views&color=0e75b6&style=flat" alt="pallavi-analytics" /> </p>
 
 - 💬 Ask me about **Machine learning**
 
