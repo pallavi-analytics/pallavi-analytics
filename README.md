@@ -12,6 +12,7 @@
 - 💬 Ask me about **Data Analysis,Machine learning**
 
 <h3 align="left">Connect with me:</h3> https://www.linkedin.com/in/pallavi-sharma-a3488523b/
+<h3 align="left">My learning Journey on You tube: https://www.youtube.com/channel/UCEVq5NiCuBLVt1devsFOU8g
 <p align="left">
 </p>
 
