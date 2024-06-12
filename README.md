@@ -15,7 +15,9 @@
 <p align="left"><a href="https://www.linkedin.com/in/pallavi-s-a3488523b/">LinkedIn Profile</a></p>
 <h3 align="left">My learning journey on YouTube:</h3>
 <p align="left"><a href="https://www.youtube.com/channel/UCEVq5NiCuBLVt1devsFOU8g">YouTube Channel</a></p>
-<p align="left"></p>
+<h3 align="left">Read my stories on Medium:</h3>
+<p align="left"><a href="https://medium.com/@pschem">Medium Profile</a></p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
