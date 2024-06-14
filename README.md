@@ -18,7 +18,7 @@
 <h3 align="left">Read my stories on Medium:</h3>
 <p align="left"><a href="https://medium.com/@pschem">Medium Profile</a></p>
 
-<h3 align="left">Join this small Data Analyst group to learn, share, and discuss ideas effectively:</h3>
+<h3 align="left">Join this small 'Data Analyst' group to learn, share, and discuss ideas effectively:</h3>
 <p align="left"><a href="https://www.linkedin.com/groups/13051471/">LinkedIn Group</a></p>
 
 
